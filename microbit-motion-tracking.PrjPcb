@@ -89,12 +89,12 @@ GenerateClassCluster=0
 DocumentUniqueId=GHKRHGYM
 
 [Parameter1]
-Name=Version
-Value=0.1
-
-[Parameter2]
 Name=Hash
 Value=53mLMd2r
+
+[Parameter2]
+Name=Version
+Value=0.1
 
 [Configuration1]
 Name=Default Configuration
